@@ -1,0 +1,2 @@
+1;omelette;2;11.25;egg:4,milk:0.25
+1;omelette;1;12.75;egg:7,milk:0.25

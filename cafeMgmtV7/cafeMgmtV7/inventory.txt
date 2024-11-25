@@ -1,0 +1,9 @@
+tomato;4;100;kg
+potato;3;500;kg
+onion;2;100;kg
+oil;10;300;l
+water;0;100000;l
+sugar;3.5;100;kg
+flour;1;300;kg
+milk;5;99.25;l
+egg;0.5;85;unit

@@ -1,0 +1,4 @@
+﻿  project.cpp
+C:\Users\Eso\source\repos\cafeMgmtV7\cafeMgmtV7\project.cpp(792,30): warning C4101: 'error': unreferenced local variable
+C:\Users\Eso\source\repos\cafeMgmtV7\cafeMgmtV7\project.cpp(1518,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  cafeMgmtV7.vcxproj -> C:\Users\Eso\source\repos\cafeMgmtV7\cafeMgmtV7\x64\Debug\cafeMgmtV7.exe
